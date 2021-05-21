@@ -1,6 +1,6 @@
 # system-control
 
-Sleep, Restart & Shutdown icons with title on right side of the desktop.
+Sleep, Restart & Shutdown icons with title on hover(located right side of the desktop).
 
 ![Screenshot](/screenshot.png)
 
